@@ -1,4 +1,5 @@
 // This program will get the sum of all multiples of 3 and 5 under a constant, usually 1000.
+// Also, this is a very bad solution. Don't use this.
 #include <string> //includes the string header
 #include <iostream> //includes the input-output string header.
 
